@@ -19,14 +19,5 @@
     "image": "https://raw.githubusercontent.com/testing4777/png/refs/heads/main/4.jpg",
     "images": [],
     "description": "Wireless Bluetooth Earbuds With Charging Case & Hand Watch."
-  },
-  {
-    "id": 3,
-    "name": "mini speaker",
-    "price": "₹360",
-    "originalPrice": "₹550",
-    "image": ""
-    "images": [],
-    "description": ""
-   }
+  }
 ]
